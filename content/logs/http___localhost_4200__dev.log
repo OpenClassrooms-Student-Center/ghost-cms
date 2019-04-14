@@ -1,0 +1,7 @@
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":40,"msg":"Theme's file locales/en.json not found. ","time":"2019-04-14T21:45:24.927Z","v":0}
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":30,"msg":"Ghost is running in dev... ","time":"2019-04-14T21:45:25.299Z","v":0}
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":30,"msg":"Listening on: 127.0.0.1:4200 ","time":"2019-04-14T21:45:25.300Z","v":0}
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":30,"msg":"Url configured as: http://localhost:4200/ ","time":"2019-04-14T21:45:25.301Z","v":0}
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":30,"msg":"Ctrl+C to shut down ","time":"2019-04-14T21:45:25.301Z","v":0}
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":30,"msg":"Ghost boot 2.676s ","time":"2019-04-14T21:45:25.303Z","v":0}
+{"name":"Log","hostname":"CBM0491-Maxence-Maireaux.local","pid":73768,"level":40,"msg":"Ghost has shut down ","time":"2019-04-14T21:45:27.033Z","v":0}
